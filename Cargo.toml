@@ -1,0 +1,9 @@
+[package]
+name = "cdrs-future"
+version = "0.1.0"
+authors = ["Alex Pikalov <alex.pikalov.khar@gmail.com>"]
+
+[dependencies]
+cdrs = "^1.0.0-beta.8"
+tokio-core = "^0.1.6"
+futures = "^0.1.13"
